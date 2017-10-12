@@ -82,6 +82,8 @@ build*
 ~                                                                                                                       
 -- INSERT --                                                                                          5,4           All
 =======
+=======
+>>>>>>> d0d37d07c71c801246c54dce7d445f32a96ee019
 # Prerequisites
 *.d
 
@@ -114,4 +116,7 @@ build*
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 >>>>>>> a6d03c38553a19f7ede7bd88bbe194a5af9861ec
+=======
+>>>>>>> d0d37d07c71c801246c54dce7d445f32a96ee019
